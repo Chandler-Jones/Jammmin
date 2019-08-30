@@ -4,9 +4,8 @@
     <list default="true" id="78f41bf9-0fd3-4853-bfb8-200d8822b62d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Playlist/Playlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Playlist/Playlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/SearchBar/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SearchBar/SearchBar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Track/Track.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Track/Track.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/TrackList/TrackList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/TrackList/TrackList.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,8 +66,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567126330469</updated>
-      <workItem from="1567126333253" duration="8869000" />
+      <workItem from="1567126333253" duration="10433000" />
     </task>
+    <task id="LOCAL-00001" summary="65/99">
+      <created>1567139711499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567139711499</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="65/99" />
+    <option name="LAST_COMMIT_MESSAGE" value="65/99" />
   </component>
 </project>
