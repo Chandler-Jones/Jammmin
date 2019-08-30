@@ -17,15 +17,15 @@ class Playlist extends Component {
 		return (
 			<div className="Playlist">
 				<input defaultValue={"New Playlist"}
-				onChange={this.handleNameChange}
+				       onChange={this.handleNameChange}
 				/>
 				<TrackList tracks={this.props.playlistTracks}
-						   onRemove={this.props.onRemove}
-						   isRemoval={true}
+				           onRemove={this.props.onRemove}
+				           isRemoval={true}
 				/>
 				<button className="Playlist-save"
-						onClick={this.props.onSave}
-				>SAVE TO SPOTIFY</button>
+								onClick={this.props.onSave}>SAVE TO SPOTIFY
+				</button>
 			</div>
 		);
 	}
