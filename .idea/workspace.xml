@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78f41bf9-0fd3-4853-bfb8-200d8822b62d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlist/Playlist.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Playlist/Playlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/SearchBar/SearchBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/SearchResults/SearchResults.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/SearchResults/SearchResults.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Track/Track.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Track/Track.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/TrackList/TrackList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/TrackList/TrackList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Jammms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Jammms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-    </list>
+    <list default="true" id="78f41bf9-0fd3-4853-bfb8-200d8822b62d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567126330469</updated>
-      <workItem from="1567126333253" duration="4801000" />
+      <workItem from="1567126333253" duration="4930000" />
     </task>
     <servers />
   </component>
