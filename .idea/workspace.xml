@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78f41bf9-0fd3-4853-bfb8-200d8822b62d" name="Default Changelist" comment="" />
+    <list default="true" id="78f41bf9-0fd3-4853-bfb8-200d8822b62d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Playlist/Playlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Playlist/Playlist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Track/Track.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Track/Track.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/TrackList/TrackList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/TrackList/TrackList.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +25,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
@@ -33,6 +40,23 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -43,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567126330469</updated>
-      <workItem from="1567126333253" duration="4930000" />
+      <workItem from="1567126333253" duration="8869000" />
     </task>
     <servers />
   </component>
